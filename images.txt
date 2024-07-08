@@ -1,4 +1,4 @@
 #mysql:8.0.30
 #redis:5.0.5
 #minio/minio:latest
-openjdk:17-jre-slim
+openjdk:17
