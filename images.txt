@@ -1,4 +1,5 @@
 #mysql:8.0.30
 #redis:5.0.5
 #minio/minio:latest
-openjdk:17
+#openjdk:17
+nacos/nacos-server:v2.3.2
