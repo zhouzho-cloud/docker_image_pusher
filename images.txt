@@ -2,4 +2,5 @@
 #redis:5.0.5
 #minio/minio:latest
 #openjdk:17
-nacos/nacos-server:v2.3.2
+#nacos/nacos-server:v2.3.2
+apache/dolphinscheduler-standalone-server:3.2.0
