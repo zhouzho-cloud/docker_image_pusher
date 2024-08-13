@@ -4,4 +4,5 @@
 #openjdk:17
 #nacos/nacos-server:v2.3.2
 #apache/dolphinscheduler-standalone-server:3.2.0
-nginx:stable-alpine3.17
+#nginx:stable-alpine3.17
+node:20-alpine
