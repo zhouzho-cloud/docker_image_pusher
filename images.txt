@@ -5,4 +5,5 @@
 #nacos/nacos-server:v2.3.2
 #apache/dolphinscheduler-standalone-server:3.2.0
 #nginx:stable-alpine3.17
-node:20-alpine
+#node:20-alpine
+mysql:5.7.35
