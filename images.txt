@@ -10,4 +10,5 @@
 #openjdk:17
 #docker.io/tomcat:8.5.40
 #bitnami/zookeeper:latest
-bitnami/kafka:latest
+#bitnami/kafka:latest
+tdengine/tdengine:latest
