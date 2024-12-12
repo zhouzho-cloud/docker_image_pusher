@@ -9,4 +9,5 @@
 #mysql:5.7.35
 #openjdk:17
 #docker.io/tomcat:8.5.40
-bitnami/zookeeper:latest
+#bitnami/zookeeper:latest
+bitnami/kafka:latest
