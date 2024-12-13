@@ -11,4 +11,4 @@
 #docker.io/tomcat:8.5.40
 #bitnami/zookeeper:latest
 #bitnami/kafka:latest
-tdengine/tdengine:latest
+tdengine/tdengine:3.3.4.3
