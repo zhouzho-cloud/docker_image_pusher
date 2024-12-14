@@ -13,4 +13,5 @@
 #bitnami/kafka:latest
 #tdengine/tdengine:3.3.4.3
 #apache/kafka:3.8.1
-bitnami/kafka:3.6.2
+#bitnami/kafka:3.6.2
+provectuslabs/kafka-ui:latest
