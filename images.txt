@@ -16,4 +16,5 @@
 #bitnami/kafka:3.6.2
 #provectuslabs/kafka-ui:latest
 #bifromq/bifromq:3.3.3
-nginx:1.27.0
+#nginx:1.27.0
+zlmediakit/zlmediakit:master
