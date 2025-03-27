@@ -17,4 +17,5 @@
 #provectuslabs/kafka-ui:latest
 #bifromq/bifromq:3.3.3
 #nginx:1.27.0
-zlmediakit/zlmediakit:master
+#zlmediakit/zlmediakit:master
+portainer/agent:2.19.5
