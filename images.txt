@@ -20,4 +20,5 @@
 #zlmediakit/zlmediakit:master
 #portainer/agent:2.19.5
 #mysql:8.0.21
-postgres:13.5
+#postgres:13.5
+keking/kkfileview-jdk:4.1.1
