@@ -21,4 +21,5 @@
 #portainer/agent:2.19.5
 #mysql:8.0.21
 #postgres:13.5
-keking/kkfileview:4.4.0
+#keking/kkfileview:4.4.0
+bitnami/kafka:4.0.0
