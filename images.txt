@@ -7,7 +7,6 @@
 #nginx:stable-alpine3.17
 #mysql:5.7.35
 #openjdk:17
-#docker.io/tomcat:8.5.40
 #bitnami/zookeeper:latest
 #bitnami/kafka:latest
 #tdengine/tdengine:3.3.4.3
