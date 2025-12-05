@@ -1,2 +1,2 @@
 #dd
-bitnami/kafka:4.0.0
+linshen/prompt-optimizer
